@@ -42,7 +42,8 @@ Half wave rectifier with filter:
 ![WhatsApp Image 2025-12-23 at 5 28 34 PM](https://github.com/user-attachments/assets/e9aae5a0-d0c8-46a0-9f90-22cfa618224e)
 
 Bridge rectifier without filter:
-<img width="1553" height="738" alt="Screenshot 2025-12-23 174636" src="https://github.com/user-attachments/assets/a061b0db-3b0f-4469-a858-2e3c5e32172a" />
+![WhatsApp Image 2025-12-23 at 5 50 16 PM](https://github.com/user-attachments/assets/3459feef-b100-404c-a177-939ac2266ace)
+
 Bridge rectifier with filter:
 ![WhatsApp Image 2025-12-23 at 5 50 18 PM](https://github.com/user-attachments/assets/74d7addb-140f-45e5-9f20-178ac8a1ce3e)
 
@@ -56,7 +57,9 @@ Bridge rectifier:
 
 
 WAVEFORM:
+Half wave rectifier:
 <img width="1389" height="736" alt="Screenshot 2025-12-23 174426" src="https://github.com/user-attachments/assets/69c94294-e4c0-4002-bc42-6b06f38a9359" />
+Bridge rectifier:
 <img width="1553" height="738" alt="Screenshot 2025-12-23 174636" src="https://github.com/user-attachments/assets/37523006-16cd-4e24-b13e-ee27b35d44de" />
 
 
